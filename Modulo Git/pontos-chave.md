@@ -5,7 +5,7 @@
  1. Pegar o número _hash_ do _commit_ da versão para qual deseja voltar:
   - `git log`
  2. Voltar/resetar para a versão desejada:
-  - `git reset #hash (da versão desejada)``
+  - `git reset #hash (da versão desejada)`
  3. Após tirar o _commit_, descartar todas as mudanças:
   - `git checkout nome-do-arquivo`
 
